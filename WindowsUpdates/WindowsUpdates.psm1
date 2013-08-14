@@ -1,5 +1,4 @@
 ﻿# Brought to you by 24oz cans of delicious union made beverages
-#todo: Remote machines (kind of the point)
 #todo: Present output in a more usable fashion
 
 <# 
